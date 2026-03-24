@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://paolociccone.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://paolociccone.org/" rel="alternate" type="text/html" /><updated>2026-03-24T17:41:11-04:00</updated><id>https://paolociccone.org/feed.xml</id><entry><title type="html">Welcome to Your New Website!</title><link href="https://paolociccone.org/general/welcome-to-lumina/" rel="alternate" type="text/html" title="Welcome to Your New Website!" /><published>2026-03-05T09:00:00-05:00</published><updated>2026-03-05T09:00:00-05:00</updated><id>https://paolociccone.org/general/welcome-to-lumina</id><content type="html" xml:base="https://paolociccone.org/general/welcome-to-lumina/"><![CDATA[<p>Congratulations on setting up your new Lumina website!</p>
+
+<p>This is your first blog post. You can edit or delete it and replace it with your own content.</p>
+
+<h2 id="how-to-write-a-blog-post">How to write a blog post</h2>
+
+<p>Blog posts live in the <code class="language-plaintext highlighter-rouge">_posts/general/</code> folder (or any subfolder of <code class="language-plaintext highlighter-rouge">_posts/</code> — 
+the folder name becomes the category automatically).</p>
+
+<p>Each post filename must follow this format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YYYY-MM-DD-title-of-your-post.md</code></p>
+
+<p>For example: <code class="language-plaintext highlighter-rouge">2026-03-05-my-first-real-post.md</code></p>
+
+<h2 id="front-matter">Front matter</h2>
+
+<p>Every post starts with a block like this at the top:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+layout: post
+title: "Your Post Title"
+date: 2026-03-05 09:00:00 -0500
+categories: general
+---
+</code></pre></div></div>
+
+<p>You can change the title, date, and category. The layout should stay as <code class="language-plaintext highlighter-rouge">post</code>.</p>
+
+<h2 id="what-to-write-about">What to write about</h2>
+
+<p>Your blog is a great place to:</p>
+<ul>
+  <li>Share your expertise and knowledge</li>
+  <li>Answer common questions your clients ask</li>
+  <li>Tell stories about your work</li>
+  <li>Improve your Google visibility by writing about topics your clients search for</li>
+</ul>
+
+<p>Happy writing!</p>]]></content><author><name></name></author><category term="general" /><summary type="html"><![CDATA[Congratulations on setting up your new Lumina website!]]></summary></entry></feed>
